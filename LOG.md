@@ -48,3 +48,49 @@ A running record of what I asked the chat AI for and what changed.
 - Removed the header. About and Artifacts were only in-page jumps, and the
   whole page fits in a short scroll.
 
+## 3. Card text
+
+**Asked:**
+
+> Draft the Artifact 1 card: a one-line description, a link, and a short
+> reflection on how building the page went.
+
+> Cards 2 through 5 need my own ideas, but I want to brainstorm first. I'm
+> into gaming, cars, collecting, and listening to music. Give me lists and
+> I'll keep the ones I like.
+
+> Replace the session-board idea. One card should be Focusqueue: tasks with a
+> title, description, due date, and difficulty, plus an optional group. I want
+> a view for one group and a view for every task. Easiest tasks with the
+> closest due dates come first.
+
+> Another card should be a resale inventory app. My example is a fragrance
+> spreadsheet with brand, model, size, buy price, market price, and sale
+> price, but the app should work for any product. Keep the family business
+> off the public card.
+
+> The last card is a home for project ideas. You save an idea, a chat helps
+> you turn it into a plan, and it stays until you have time to build it. Theme
+> it as a rocket: the idea starts as the base, the plan adds parts, and
+> starting the real project is the launch.
+
+> Build sheet needs two modes. One is for before and during the build: parts,
+> cost, and install order. The other is for after the build is done, a page
+> that shows the finished car, the mods, and the stats.
+
+> Reorder the placeholder cards. Focusqueue is Artifact 2, Stack is Artifact
+> 3, and Build sheet is Artifact 5. Leave Resale inventory as Artifact 4.
+
+**What came back / what changed:**
+
+- Filled the Artifact 1 card and pointed it at `https://jbarra2.github.io`.
+- Left cards 2 through 5 as placeholders, with these ideas:
+  - Artifact 2, Focusqueue: a task queue with optional groups.
+  - Artifact 3, Stack: project ideas assembled like a rocket, then launched
+    when it is time to build.
+  - Artifact 4, Resale inventory: buy, market, and sale prices for any
+    product.
+  - Artifact 5, Build sheet: a planning mode while the car is being built,
+    and a showcase of the finished car, its mods, and its stats.
+- Reflections on cards 2 through 5 still say "Not started yet."
+
