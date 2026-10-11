@@ -55,8 +55,7 @@ A running record of what I asked the chat AI for and what changed.
 > Draft the Artifact 1 card: a one-line description, a link, and a short
 > reflection on how building the page went.
 
-> Cards 2 through 5 need my own ideas, but I want to brainstorm first. I'm
-> into gaming, cars, collecting, and listening to music. Give me lists and
+> Cards 2 through 5 need my own ideas, but I want to brainstorm first. Give me lists and
 > I'll keep the ones I like.
 
 > Replace the session-board idea. One card should be Focusqueue: tasks with a
@@ -66,8 +65,7 @@ A running record of what I asked the chat AI for and what changed.
 
 > Another card should be a resale inventory app. My example is a fragrance
 > spreadsheet with brand, model, size, buy price, market price, and sale
-> price, but the app should work for any product. Keep the family business
-> off the public card.
+> price, but the app should work for any product.
 
 > The last card is a home for project ideas. You save an idea, a chat helps
 > you turn it into a plan, and it stays until you have time to build it. Theme
@@ -93,4 +91,3 @@ A running record of what I asked the chat AI for and what changed.
   - Artifact 5, Build sheet: a planning mode while the car is being built,
     and a showcase of the finished car, its mods, and its stats.
 - Reflections on cards 2 through 5 still say "Not started yet."
-
