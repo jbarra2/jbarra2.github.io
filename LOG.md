@@ -91,3 +91,24 @@ A running record of what I asked the chat AI for and what changed.
   - Artifact 5, Build sheet: a planning mode while the car is being built,
     and a showcase of the finished car, its mods, and its stats.
 - Reflections on cards 2 through 5 still say "Not started yet."
+
+## 4. Artifact 2 card
+
+**Asked:**
+
+> Let's fill in the card for focusqueue in our portfolio site
+
+> (answering which layout to use) Only Artifact 1 full width.
+
+**What came back / what changed:**
+
+- Marked the Artifact 2 card done. The idea text is replaced by a short summary of
+  the finished app, and the reflection says how the build went and what I learned.
+- The link points to the repository on GitHub, `https://github.com/jbarra2/focusqueue`.
+  There is no live site on purpose: the app only listens on `127.0.0.1`, so it runs
+  on one computer.
+- On wide screens every done card spanned both columns, which would have put
+  Artifact 2 on its own row. The full-width rule now names `#artifact-1`, so the
+  grid stays one wide card, then two rows of two. A done card still gets the warm
+  border and full-color text.
+- Cards 3 through 5 are unchanged.
