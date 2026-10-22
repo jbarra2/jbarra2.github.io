@@ -112,3 +112,24 @@ A running record of what I asked the chat AI for and what changed.
   grid stays one wide card, then two rows of two. A done card still gets the warm
   border and full-color text.
 - Cards 3 through 5 are unchanged.
+
+## 5. Rename Artifact 3
+
+**Asked:**
+
+> What are some other good names to replace "Stack" for my third artifact? I
+> want to keep the same idea but brainstorm a different name
+
+> Launchpad or liftoff?
+
+> Let's change the name to Launchpad please
+
+**What came back / what changed:**
+
+- Claude pointed out that "Stack" also clashes with the card stack in the
+  Focusqueue card, then suggested names grouped by theme.
+- Claude recommended Launchpad over Liftoff. The card describes a place where
+  ideas are assembled and then launched, and a launchpad is that place.
+  Liftoff only names the last step.
+- Renamed the Artifact 3 card title from Stack to Launchpad. The summary,
+  link, and reflection are unchanged, and the card is still a placeholder.
