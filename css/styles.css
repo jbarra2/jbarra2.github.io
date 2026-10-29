@@ -120,6 +120,19 @@ main,
   margin-bottom: 0.9rem;
 }
 
+@supports (height: 1lh) {
+  .card-link {
+    --tap-pad: calc((2.75rem - 1lh) / 2);
+    padding: var(--tap-pad);
+    margin: calc(-1 * var(--tap-pad));
+    margin-bottom: calc(0.9rem - var(--tap-pad));
+  }
+
+  .card-link:focus-visible {
+    outline-offset: calc(3px - var(--tap-pad));
+  }
+}
+
 .card-reflection-heading {
   margin: 0 0 0.2rem;
   color: var(--muted);
@@ -146,5 +159,18 @@ main,
 
   #artifact-1 {
     grid-column: 1 / -1;
+  }
+
+  @supports (grid-template-rows: subgrid) {
+    .card {
+      display: grid;
+      grid-row: span 6;
+      grid-template-rows: subgrid;
+      row-gap: 0;
+    }
+
+    .card-link {
+      justify-self: start;
+    }
   }
 }

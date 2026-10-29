@@ -133,3 +133,23 @@ A running record of what I asked the chat AI for and what changed.
   Liftoff only names the last step.
 - Renamed the Artifact 3 card title from Stack to Launchpad. The summary,
   link, and reflection are unchanged, and the card is still a placeholder.
+
+## 6. Artifact 3 card
+
+**Asked:**
+
+Fill in the Launchpad card from what its repository says, now that the project is
+done. Along the way, I asked for card links that are easier to tap on a phone, and
+for the links and reflections of cards in the same row to line up.
+
+**What came back / what changed:**
+
+- Marked the Artifact 3 card done, with a summary of the finished app, a link to
+  its repository on GitHub, and a reflection on how the build went. There is no
+  live site yet: the app runs on one computer until it is hosted.
+- Two independent reviews checked the card against Launchpad's own docs, and the
+  claims that went too far were corrected.
+- Every card link now has a 44-pixel tap area on a phone, without changing how the
+  cards look.
+- On wide screens, the two cards in a row share their rows (CSS subgrid), so the
+  links and reflections line up. Phones and older browsers keep the old layout.
