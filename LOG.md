@@ -153,3 +153,20 @@ for the links and reflections of cards in the same row to line up.
   cards look.
 - On wide screens, the two cards in a row share their rows (CSS subgrid), so the
   links and reflections line up. Phones and older browsers keep the old layout.
+
+## 7. Artifact 4 card
+
+**Asked:**
+
+Replace the Resale inventory idea with TeachBack, a two-week team project, and fill
+in its card now that the first week is done.
+
+**What came back / what changed:**
+
+- Artifact 4 is now TeachBack, with a summary of the app my team is building, a
+  link to its repository on GitHub, and a reflection on the first week. The Resale
+  inventory idea is dropped.
+- The card is marked in progress, in its label and with a new `in-progress`
+  status, because the project continues next week. It uses full-color text like a
+  done card, without the done card's warm border.
+- The editing note above the cards now explains the in-progress status.

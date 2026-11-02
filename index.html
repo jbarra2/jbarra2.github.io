@@ -31,7 +31,9 @@
 
         <!--
           HOW TO EDIT A CARD
-          1. Change data-status from "placeholder" to "done".
+          1. Change data-status from "placeholder" to "done". For an
+             artifact that runs past one week, use "in-progress" and add
+             "· In progress" to the label until it is finished.
           2. Replace the title, the idea text, and the link href.
           3. Write your reflection (a few sentences on how it went and
              what you learned).
@@ -109,18 +111,31 @@
             </p>
           </article>
 
-          <article class="card" id="artifact-4" data-status="placeholder">
-            <p class="card-label">Artifact 4</p>
-            <h3 class="card-title">Resale inventory</h3>
+          <article class="card" id="artifact-4" data-status="in-progress">
+            <p class="card-label">Artifact 4 · In progress</p>
+            <h3 class="card-title">TeachBack</h3>
             <p class="card-summary">
-              A tracker for items you buy and sell again, instead of a
-              spreadsheet. Each item can store a brand, a model, a size, a buy
-              price, a market price, and a sale price. The same fields work for
-              any product.
+              A study app my team of three is building over two weeks. When it
+              is done, you will upload your lecture notes, and it will pick out
+              the concepts and ask you to explain one in your own words. Its
+              feedback will quote your notes and say when it isn't sure, and a
+              concept map will show what to review next.
             </p>
-            <a class="card-link" href="#">Link coming soon</a>
+            <a
+              class="card-link"
+              href="https://github.com/jbarra2/teachback"
+              >Source on GitHub</a
+            >
             <h4 class="card-reflection-heading">Reflection</h4>
-            <p class="card-reflection">Not started yet.</p>
+            <p class="card-reflection">
+              I'm the lead, so the first week went into the groundwork my two
+              teammates build on: the plan, the checks every change has to
+              pass, and the API contract that the screens and the server share.
+              Each review round found another missing test, so now I write the
+              tests before the code. I also learned that two changes can each
+              pass the checks on their own and still break the shared code once
+              both are merged.
+            </p>
           </article>
 
           <article class="card" id="artifact-5" data-status="placeholder">
