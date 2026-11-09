@@ -170,3 +170,22 @@ in its card now that the first week is done.
   status, because the project continues next week. It uses full-color text like a
   done card, without the done card's warm border.
 - The editing note above the cards now explains the in-progress status.
+
+## 8. Artifact 4 card, finished
+
+**Asked:**
+
+Fill in the TeachBack card now that the project is complete.
+
+**What came back / what changed:**
+
+- Marked the Artifact 4 card done, so it drops "In progress" from its label and
+  gets the done card's warm border.
+- The summary now describes the finished app, including how each quote in the
+  feedback is checked against the notes, and how a grade it can't back leaves
+  progress alone. The claims were checked against TeachBack's docs and my
+  journal.
+- The reflection now covers both weeks: the groundwork in the first, and in the
+  second the backend tasks I picked up, cutting deployment, and the bug bash. It
+  ends on leading the team, the part of this project the other artifacts didn't
+  have: keeping people moving, and listening to them.
