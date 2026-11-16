@@ -189,3 +189,24 @@ Fill in the TeachBack card now that the project is complete.
   second the backend tasks I picked up, cutting deployment, and the bug bash. It
   ends on leading the team, the part of this project the other artifacts didn't
   have: keeping people moving, and listening to them.
+
+## 9. Artifact 5 card
+
+**Asked:**
+
+Replace the Build sheet idea with Nightshift, my last and biggest project, and
+fill in its card from what its repository says, now that the plan and the
+scaffold are done.
+
+**What came back / what changed:**
+
+- Artifact 5 is now Nightshift, with a summary of the home lab and AI on-call
+  engineer it will become, and a link to its repository on GitHub. The Build
+  sheet idea is dropped.
+- The card is marked in progress, because the project runs to the end of the
+  quarter.
+- The reflection covers the first week: a plan written as a priority order,
+  three rounds of review before anything was built, and a repository whose git
+  hooks were tested by breaking each protection on purpose. It ends on what
+  shaped the design most: the server has to come back on its own.
+- The claims were checked against Nightshift's docs.

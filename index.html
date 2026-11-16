@@ -143,18 +143,36 @@
             </p>
           </article>
 
-          <article class="card" id="artifact-5" data-status="placeholder">
-            <p class="card-label">Artifact 5</p>
-            <h3 class="card-title">Build sheet</h3>
+          <article class="card" id="artifact-5" data-status="in-progress">
+            <p class="card-label">Artifact 5 · In progress</p>
+            <h3 class="card-title">Nightshift</h3>
             <p class="card-summary">
-              A project-car page with two modes. Before and during the build,
-              it tracks the parts you want, what each one costs, and the order
-              you plan to install them. After the build, it becomes a showcase
-              of the finished car, the mods, and the stats.
+              A home lab on a spare ThinkPad, with an AI on-call engineer. When
+              it is done, the laptop will host my own projects on the public
+              web without an open port on my router, deploy each one when I
+              push to GitHub, and watch everything around the clock. When an
+              alert fires, an AI agent will look into it with read-only tools
+              and post the likely cause and a proposed fix to Discord. Each
+              morning a handoff will sum up the night, and after a power cut
+              or a reboot, the server will come back on its own.
             </p>
-            <a class="card-link" href="#">Link coming soon</a>
+            <a
+              class="card-link"
+              href="https://github.com/jbarra2/nightshift"
+              >Source on GitHub</a
+            >
             <h4 class="card-reflection-heading">Reflection</h4>
-            <p class="card-reflection">Not started yet.</p>
+            <p class="card-reflection">
+              The plan is a priority order: what ships first, what moves past
+              the deadline if I fall behind, and what never moves. Three rounds
+              of review reshaped it before I built anything, and one led me to
+              drop full-disk encryption, because unlocking it at boot would
+              need either a typed passphrase or too much upkeep. Then I set up
+              the repository with git hooks that block secrets, and broke each
+              protection on purpose to make sure a test caught it. I learned
+              that one requirement, coming back on its own with nobody at the
+              keyboard, shaped more of the design than any feature did.
+            </p>
           </article>
         </div>
       </section>
