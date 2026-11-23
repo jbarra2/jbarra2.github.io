@@ -210,3 +210,20 @@ scaffold are done.
   hooks were tested by breaking each protection on purpose. It ends on what
   shaped the design most: the server has to come back on its own.
 - The claims were checked against Nightshift's docs.
+
+## 10. Artifact 5 card, second week
+
+**Asked:**
+
+Update the Nightshift card for the project's second week, from what its
+repository says.
+
+**What came back / what changed:**
+
+- The reflection now covers the second week: the server work slipped a week,
+  and the runbook for a stolen laptop is ready before any token goes on the
+  server. It ties that runbook to the earlier choice to drop full-disk
+  encryption.
+- The sentence on the git hooks was cut to keep the reflection short. The
+  summary is unchanged, since the server work is still ahead.
+- The claims were checked against Nightshift's docs.
